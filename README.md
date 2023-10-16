@@ -1,4 +1,4 @@
-TypeScript Vite HTML Demo
+TypeScript Vite RiderJS Demo
 ===========================
 
 ```
